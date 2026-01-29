@@ -1,0 +1,10 @@
+[2026-01-29T06:15:42.368Z] [INFO] Default locale: en, other locales: fr, de, vi, ja, cs, mn, nl, zh-Hans, zh-Hant, it, ko, ru, pt, pl, es
+[2026-01-29T06:15:42.368Z] [INFO] 
+=== Processing feature_id="new-feature" ===
+[2026-01-29T06:15:42.368Z] [INFO] GET /pro-features?feature_id=new-feature&locale=en
+[2026-01-29T06:15:42.393Z] [INFO] Found base entry id=24, updating name for locale=en
+[2026-01-29T06:15:42.393Z] [INFO] PUT /pro-features/24?locale=en
+[2026-01-29T06:15:42.408Z] [ERROR] Error processing base locale for feature_id=new-feature: [object Object]
+[2026-01-29T06:15:42.408Z] [INFO] 
+Sync complete. Report written to: /Users/anhlando/Documents/Projects/CMS-strapi/strapi-translation/reports/pro-feature-sync-report-2026-01-29T06-15-42-408Z.json
+[2026-01-29T06:15:42.408Z] [INFO] Summary: processed=0, created=0, updated=0, failed=1

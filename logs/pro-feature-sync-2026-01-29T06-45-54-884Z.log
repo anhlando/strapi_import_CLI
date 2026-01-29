@@ -1,0 +1,69 @@
+[2026-01-29T06:45:54.886Z] [INFO] Default locale: en, other locales: fr, de, vi, ja, cs, mn, nl, zh-Hans, zh-Hant, it, ko, ru, pt, pl, es
+[2026-01-29T06:45:54.886Z] [INFO] 
+=== Processing feature_id="new-feature" ===
+[2026-01-29T06:45:54.886Z] [INFO] GET /pro-features?feature_id=new-feature&locale=en
+[2026-01-29T06:45:54.921Z] [INFO] No existing base entry. Creating feature_id=new-feature, locale=en
+[2026-01-29T06:45:54.922Z] [INFO] POST /pro-features feature_id=new-feature, locale=en
+[2026-01-29T06:45:54.938Z] [INFO] GET /pro-features?feature_id=new-feature&locale=fr (locale check)
+[2026-01-29T06:45:54.941Z] [INFO] Creating locale "fr" for feature_id=new-feature
+[2026-01-29T06:45:54.941Z] [INFO] POST /pro-features feature_id=(none), locale=fr
+[2026-01-29T06:45:54.951Z] [ERROR] Error processing locale=fr for feature_id=new-feature: ValidationError: feature_id must be a `string` type, but the final value was: `null`.
+[2026-01-29T06:45:54.951Z] [INFO] GET /pro-features?feature_id=new-feature&locale=de (locale check)
+[2026-01-29T06:45:54.954Z] [INFO] Creating locale "de" for feature_id=new-feature
+[2026-01-29T06:45:54.954Z] [INFO] POST /pro-features feature_id=(none), locale=de
+[2026-01-29T06:45:54.958Z] [ERROR] Error processing locale=de for feature_id=new-feature: ValidationError: feature_id must be a `string` type, but the final value was: `null`.
+[2026-01-29T06:45:54.958Z] [INFO] GET /pro-features?feature_id=new-feature&locale=vi (locale check)
+[2026-01-29T06:45:54.963Z] [INFO] Creating locale "vi" for feature_id=new-feature
+[2026-01-29T06:45:54.963Z] [INFO] POST /pro-features feature_id=(none), locale=vi
+[2026-01-29T06:45:54.969Z] [ERROR] Error processing locale=vi for feature_id=new-feature: ValidationError: feature_id must be a `string` type, but the final value was: `null`.
+[2026-01-29T06:45:54.970Z] [INFO] GET /pro-features?feature_id=new-feature&locale=ja (locale check)
+[2026-01-29T06:45:54.974Z] [INFO] Creating locale "ja" for feature_id=new-feature
+[2026-01-29T06:45:54.974Z] [INFO] POST /pro-features feature_id=(none), locale=ja
+[2026-01-29T06:45:54.981Z] [ERROR] Error processing locale=ja for feature_id=new-feature: ValidationError: feature_id must be a `string` type, but the final value was: `null`.
+[2026-01-29T06:45:54.981Z] [INFO] GET /pro-features?feature_id=new-feature&locale=cs (locale check)
+[2026-01-29T06:45:54.985Z] [INFO] Creating locale "cs" for feature_id=new-feature
+[2026-01-29T06:45:54.985Z] [INFO] POST /pro-features feature_id=(none), locale=cs
+[2026-01-29T06:45:54.988Z] [ERROR] Error processing locale=cs for feature_id=new-feature: ValidationError: feature_id must be a `string` type, but the final value was: `null`.
+[2026-01-29T06:45:54.988Z] [INFO] GET /pro-features?feature_id=new-feature&locale=mn (locale check)
+[2026-01-29T06:45:54.991Z] [INFO] Creating locale "mn" for feature_id=new-feature
+[2026-01-29T06:45:54.991Z] [INFO] POST /pro-features feature_id=(none), locale=mn
+[2026-01-29T06:45:54.994Z] [ERROR] Error processing locale=mn for feature_id=new-feature: ValidationError: feature_id must be a `string` type, but the final value was: `null`.
+[2026-01-29T06:45:54.994Z] [INFO] GET /pro-features?feature_id=new-feature&locale=nl (locale check)
+[2026-01-29T06:45:54.997Z] [INFO] Creating locale "nl" for feature_id=new-feature
+[2026-01-29T06:45:54.997Z] [INFO] POST /pro-features feature_id=(none), locale=nl
+[2026-01-29T06:45:55.000Z] [ERROR] Error processing locale=nl for feature_id=new-feature: ValidationError: feature_id must be a `string` type, but the final value was: `null`.
+[2026-01-29T06:45:55.000Z] [INFO] GET /pro-features?feature_id=new-feature&locale=zh-Hans (locale check)
+[2026-01-29T06:45:55.002Z] [INFO] Creating locale "zh-Hans" for feature_id=new-feature
+[2026-01-29T06:45:55.002Z] [INFO] POST /pro-features feature_id=(none), locale=zh-Hans
+[2026-01-29T06:45:55.006Z] [ERROR] Error processing locale=zh-Hans for feature_id=new-feature: ValidationError: feature_id must be a `string` type, but the final value was: `null`.
+[2026-01-29T06:45:55.006Z] [INFO] GET /pro-features?feature_id=new-feature&locale=zh-Hant (locale check)
+[2026-01-29T06:45:55.008Z] [INFO] Creating locale "zh-Hant" for feature_id=new-feature
+[2026-01-29T06:45:55.008Z] [INFO] POST /pro-features feature_id=(none), locale=zh-Hant
+[2026-01-29T06:45:55.012Z] [ERROR] Error processing locale=zh-Hant for feature_id=new-feature: ValidationError: feature_id must be a `string` type, but the final value was: `null`.
+[2026-01-29T06:45:55.012Z] [INFO] GET /pro-features?feature_id=new-feature&locale=it (locale check)
+[2026-01-29T06:45:55.014Z] [INFO] Creating locale "it" for feature_id=new-feature
+[2026-01-29T06:45:55.014Z] [INFO] POST /pro-features feature_id=(none), locale=it
+[2026-01-29T06:45:55.017Z] [ERROR] Error processing locale=it for feature_id=new-feature: ValidationError: feature_id must be a `string` type, but the final value was: `null`.
+[2026-01-29T06:45:55.017Z] [INFO] GET /pro-features?feature_id=new-feature&locale=ko (locale check)
+[2026-01-29T06:45:55.019Z] [INFO] Creating locale "ko" for feature_id=new-feature
+[2026-01-29T06:45:55.019Z] [INFO] POST /pro-features feature_id=(none), locale=ko
+[2026-01-29T06:45:55.022Z] [ERROR] Error processing locale=ko for feature_id=new-feature: ValidationError: feature_id must be a `string` type, but the final value was: `null`.
+[2026-01-29T06:45:55.022Z] [INFO] GET /pro-features?feature_id=new-feature&locale=ru (locale check)
+[2026-01-29T06:45:55.024Z] [INFO] Creating locale "ru" for feature_id=new-feature
+[2026-01-29T06:45:55.024Z] [INFO] POST /pro-features feature_id=(none), locale=ru
+[2026-01-29T06:45:55.034Z] [ERROR] Error processing locale=ru for feature_id=new-feature: ValidationError: feature_id must be a `string` type, but the final value was: `null`.
+[2026-01-29T06:45:55.034Z] [INFO] GET /pro-features?feature_id=new-feature&locale=pt (locale check)
+[2026-01-29T06:45:55.039Z] [INFO] Creating locale "pt" for feature_id=new-feature
+[2026-01-29T06:45:55.039Z] [INFO] POST /pro-features feature_id=(none), locale=pt
+[2026-01-29T06:45:55.045Z] [ERROR] Error processing locale=pt for feature_id=new-feature: ValidationError: feature_id must be a `string` type, but the final value was: `null`.
+[2026-01-29T06:45:55.046Z] [INFO] GET /pro-features?feature_id=new-feature&locale=pl (locale check)
+[2026-01-29T06:45:55.049Z] [INFO] Creating locale "pl" for feature_id=new-feature
+[2026-01-29T06:45:55.050Z] [INFO] POST /pro-features feature_id=(none), locale=pl
+[2026-01-29T06:45:55.055Z] [ERROR] Error processing locale=pl for feature_id=new-feature: ValidationError: feature_id must be a `string` type, but the final value was: `null`.
+[2026-01-29T06:45:55.055Z] [INFO] GET /pro-features?feature_id=new-feature&locale=es (locale check)
+[2026-01-29T06:45:55.070Z] [INFO] Creating locale "es" for feature_id=new-feature
+[2026-01-29T06:45:55.071Z] [INFO] POST /pro-features feature_id=(none), locale=es
+[2026-01-29T06:45:55.075Z] [ERROR] Error processing locale=es for feature_id=new-feature: ValidationError: feature_id must be a `string` type, but the final value was: `null`.
+[2026-01-29T06:45:55.075Z] [INFO] 
+Sync complete. Report written to: /Users/anhlando/Documents/Projects/CMS-strapi/strapi-translation/reports/pro-feature-sync-report-2026-01-29T06-45-55-075Z.json
+[2026-01-29T06:45:55.075Z] [INFO] Summary: processed=1, created=1, updated=0, failed=15

@@ -1,0 +1,69 @@
+[2026-01-29T06:48:39.423Z] [INFO] Default locale: en, other locales: fr, de, vi, ja, cs, mn, nl, zh-Hans, zh-Hant, it, ko, ru, pt, pl, es
+[2026-01-29T06:48:39.424Z] [INFO] 
+=== Processing feature_id="new-feature" ===
+[2026-01-29T06:48:39.424Z] [INFO] GET /pro-features?feature_id=new-feature&locale=en
+[2026-01-29T06:48:39.436Z] [INFO] No existing base entry. Creating feature_id=new-feature, locale=en
+[2026-01-29T06:48:39.436Z] [INFO] POST /pro-features feature_id=new-feature, locale=en
+[2026-01-29T06:48:39.448Z] [INFO] GET /pro-features?feature_id=new-feature&locale=fr (locale check)
+[2026-01-29T06:48:39.456Z] [INFO] Creating locale "fr" for feature_id=new-feature
+[2026-01-29T06:48:39.456Z] [INFO] POST /pro-features feature_id=new-feature, locale=fr
+[2026-01-29T06:48:39.470Z] [ERROR] Error processing locale=fr for feature_id=new-feature: ValidationError: This attribute must be unique
+[2026-01-29T06:48:39.470Z] [INFO] GET /pro-features?feature_id=new-feature&locale=de (locale check)
+[2026-01-29T06:48:39.475Z] [INFO] Creating locale "de" for feature_id=new-feature
+[2026-01-29T06:48:39.475Z] [INFO] POST /pro-features feature_id=new-feature, locale=de
+[2026-01-29T06:48:39.484Z] [ERROR] Error processing locale=de for feature_id=new-feature: ValidationError: This attribute must be unique
+[2026-01-29T06:48:39.484Z] [INFO] GET /pro-features?feature_id=new-feature&locale=vi (locale check)
+[2026-01-29T06:48:39.487Z] [INFO] Creating locale "vi" for feature_id=new-feature
+[2026-01-29T06:48:39.487Z] [INFO] POST /pro-features feature_id=new-feature, locale=vi
+[2026-01-29T06:48:39.491Z] [ERROR] Error processing locale=vi for feature_id=new-feature: ValidationError: This attribute must be unique
+[2026-01-29T06:48:39.491Z] [INFO] GET /pro-features?feature_id=new-feature&locale=ja (locale check)
+[2026-01-29T06:48:39.494Z] [INFO] Creating locale "ja" for feature_id=new-feature
+[2026-01-29T06:48:39.494Z] [INFO] POST /pro-features feature_id=new-feature, locale=ja
+[2026-01-29T06:48:39.499Z] [ERROR] Error processing locale=ja for feature_id=new-feature: ValidationError: This attribute must be unique
+[2026-01-29T06:48:39.499Z] [INFO] GET /pro-features?feature_id=new-feature&locale=cs (locale check)
+[2026-01-29T06:48:39.502Z] [INFO] Creating locale "cs" for feature_id=new-feature
+[2026-01-29T06:48:39.502Z] [INFO] POST /pro-features feature_id=new-feature, locale=cs
+[2026-01-29T06:48:39.507Z] [ERROR] Error processing locale=cs for feature_id=new-feature: ValidationError: This attribute must be unique
+[2026-01-29T06:48:39.507Z] [INFO] GET /pro-features?feature_id=new-feature&locale=mn (locale check)
+[2026-01-29T06:48:39.510Z] [INFO] Creating locale "mn" for feature_id=new-feature
+[2026-01-29T06:48:39.510Z] [INFO] POST /pro-features feature_id=new-feature, locale=mn
+[2026-01-29T06:48:39.513Z] [ERROR] Error processing locale=mn for feature_id=new-feature: ValidationError: This attribute must be unique
+[2026-01-29T06:48:39.513Z] [INFO] GET /pro-features?feature_id=new-feature&locale=nl (locale check)
+[2026-01-29T06:48:39.515Z] [INFO] Creating locale "nl" for feature_id=new-feature
+[2026-01-29T06:48:39.515Z] [INFO] POST /pro-features feature_id=new-feature, locale=nl
+[2026-01-29T06:48:39.518Z] [ERROR] Error processing locale=nl for feature_id=new-feature: ValidationError: This attribute must be unique
+[2026-01-29T06:48:39.518Z] [INFO] GET /pro-features?feature_id=new-feature&locale=zh-Hans (locale check)
+[2026-01-29T06:48:39.521Z] [INFO] Creating locale "zh-Hans" for feature_id=new-feature
+[2026-01-29T06:48:39.521Z] [INFO] POST /pro-features feature_id=new-feature, locale=zh-Hans
+[2026-01-29T06:48:39.524Z] [ERROR] Error processing locale=zh-Hans for feature_id=new-feature: ValidationError: This attribute must be unique
+[2026-01-29T06:48:39.524Z] [INFO] GET /pro-features?feature_id=new-feature&locale=zh-Hant (locale check)
+[2026-01-29T06:48:39.527Z] [INFO] Creating locale "zh-Hant" for feature_id=new-feature
+[2026-01-29T06:48:39.527Z] [INFO] POST /pro-features feature_id=new-feature, locale=zh-Hant
+[2026-01-29T06:48:39.530Z] [ERROR] Error processing locale=zh-Hant for feature_id=new-feature: ValidationError: This attribute must be unique
+[2026-01-29T06:48:39.530Z] [INFO] GET /pro-features?feature_id=new-feature&locale=it (locale check)
+[2026-01-29T06:48:39.532Z] [INFO] Creating locale "it" for feature_id=new-feature
+[2026-01-29T06:48:39.532Z] [INFO] POST /pro-features feature_id=new-feature, locale=it
+[2026-01-29T06:48:39.535Z] [ERROR] Error processing locale=it for feature_id=new-feature: ValidationError: This attribute must be unique
+[2026-01-29T06:48:39.535Z] [INFO] GET /pro-features?feature_id=new-feature&locale=ko (locale check)
+[2026-01-29T06:48:39.538Z] [INFO] Creating locale "ko" for feature_id=new-feature
+[2026-01-29T06:48:39.538Z] [INFO] POST /pro-features feature_id=new-feature, locale=ko
+[2026-01-29T06:48:39.542Z] [ERROR] Error processing locale=ko for feature_id=new-feature: ValidationError: This attribute must be unique
+[2026-01-29T06:48:39.542Z] [INFO] GET /pro-features?feature_id=new-feature&locale=ru (locale check)
+[2026-01-29T06:48:39.544Z] [INFO] Creating locale "ru" for feature_id=new-feature
+[2026-01-29T06:48:39.544Z] [INFO] POST /pro-features feature_id=new-feature, locale=ru
+[2026-01-29T06:48:39.547Z] [ERROR] Error processing locale=ru for feature_id=new-feature: ValidationError: This attribute must be unique
+[2026-01-29T06:48:39.547Z] [INFO] GET /pro-features?feature_id=new-feature&locale=pt (locale check)
+[2026-01-29T06:48:39.549Z] [INFO] Creating locale "pt" for feature_id=new-feature
+[2026-01-29T06:48:39.549Z] [INFO] POST /pro-features feature_id=new-feature, locale=pt
+[2026-01-29T06:48:39.552Z] [ERROR] Error processing locale=pt for feature_id=new-feature: ValidationError: This attribute must be unique
+[2026-01-29T06:48:39.552Z] [INFO] GET /pro-features?feature_id=new-feature&locale=pl (locale check)
+[2026-01-29T06:48:39.558Z] [INFO] Creating locale "pl" for feature_id=new-feature
+[2026-01-29T06:48:39.558Z] [INFO] POST /pro-features feature_id=new-feature, locale=pl
+[2026-01-29T06:48:39.563Z] [ERROR] Error processing locale=pl for feature_id=new-feature: ValidationError: This attribute must be unique
+[2026-01-29T06:48:39.564Z] [INFO] GET /pro-features?feature_id=new-feature&locale=es (locale check)
+[2026-01-29T06:48:39.569Z] [INFO] Creating locale "es" for feature_id=new-feature
+[2026-01-29T06:48:39.569Z] [INFO] POST /pro-features feature_id=new-feature, locale=es
+[2026-01-29T06:48:39.573Z] [ERROR] Error processing locale=es for feature_id=new-feature: ValidationError: This attribute must be unique
+[2026-01-29T06:48:39.574Z] [INFO] 
+Sync complete. Report written to: /Users/anhlando/Documents/Projects/CMS-strapi/strapi-translation/reports/pro-feature-sync-report-2026-01-29T06-48-39-574Z.json
+[2026-01-29T06:48:39.574Z] [INFO] Summary: processed=1, created=1, updated=0, failed=15

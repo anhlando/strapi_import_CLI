@@ -1,0 +1,24 @@
+[2026-01-29T07:15:26.031Z] [INFO] Default locale: en, other locales: fr, de, vi, ja, cs, mn, nl, zh-Hans, zh-Hant, it, ko, ru, pt, pl, es
+[2026-01-29T07:15:26.031Z] [INFO] 
+=== Processing feature_id="new-feature" ===
+[2026-01-29T07:15:26.032Z] [INFO] GET /pro-features?feature_id=new-feature
+[2026-01-29T07:15:26.069Z] [INFO] No existing document. Creating base document feature_id=new-feature, locale=en
+[2026-01-29T07:15:26.069Z] [INFO] POST /pro-features (base) feature_id=new-feature, locale=en
+[2026-01-29T07:15:26.085Z] [INFO] PUT /pro-features/teftkzifel4k19cjs9lb2cdr?locale=fr (create/update locale version)
+[2026-01-29T07:15:26.093Z] [INFO] PUT /pro-features/teftkzifel4k19cjs9lb2cdr?locale=de (create/update locale version)
+[2026-01-29T07:15:26.100Z] [INFO] PUT /pro-features/teftkzifel4k19cjs9lb2cdr?locale=vi (create/update locale version)
+[2026-01-29T07:15:26.106Z] [INFO] PUT /pro-features/teftkzifel4k19cjs9lb2cdr?locale=ja (create/update locale version)
+[2026-01-29T07:15:26.112Z] [INFO] PUT /pro-features/teftkzifel4k19cjs9lb2cdr?locale=cs (create/update locale version)
+[2026-01-29T07:15:26.119Z] [INFO] PUT /pro-features/teftkzifel4k19cjs9lb2cdr?locale=mn (create/update locale version)
+[2026-01-29T07:15:26.126Z] [INFO] PUT /pro-features/teftkzifel4k19cjs9lb2cdr?locale=nl (create/update locale version)
+[2026-01-29T07:15:26.131Z] [INFO] PUT /pro-features/teftkzifel4k19cjs9lb2cdr?locale=zh-Hans (create/update locale version)
+[2026-01-29T07:15:26.137Z] [INFO] PUT /pro-features/teftkzifel4k19cjs9lb2cdr?locale=zh-Hant (create/update locale version)
+[2026-01-29T07:15:26.142Z] [INFO] PUT /pro-features/teftkzifel4k19cjs9lb2cdr?locale=it (create/update locale version)
+[2026-01-29T07:15:26.148Z] [INFO] PUT /pro-features/teftkzifel4k19cjs9lb2cdr?locale=ko (create/update locale version)
+[2026-01-29T07:15:26.153Z] [INFO] PUT /pro-features/teftkzifel4k19cjs9lb2cdr?locale=ru (create/update locale version)
+[2026-01-29T07:15:26.160Z] [INFO] PUT /pro-features/teftkzifel4k19cjs9lb2cdr?locale=pt (create/update locale version)
+[2026-01-29T07:15:26.165Z] [INFO] PUT /pro-features/teftkzifel4k19cjs9lb2cdr?locale=pl (create/update locale version)
+[2026-01-29T07:15:26.170Z] [INFO] PUT /pro-features/teftkzifel4k19cjs9lb2cdr?locale=es (create/update locale version)
+[2026-01-29T07:15:26.181Z] [INFO] 
+Sync complete. Report written to: /Users/anhlando/Documents/Projects/CMS-strapi/strapi-translation/reports/pro-feature-sync-report-2026-01-29T07-15-26-181Z.json
+[2026-01-29T07:15:26.181Z] [INFO] Summary: processed=1, success=16, failures=0

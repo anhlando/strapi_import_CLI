@@ -1,0 +1,50 @@
+{
+  "defaultLocale": "en",
+  "otherLocales": [
+    "fr",
+    "de",
+    "vi",
+    "ja",
+    "cs",
+    "mn",
+    "nl",
+    "zh-Hans",
+    "zh-Hant",
+    "it",
+    "ko",
+    "ru",
+    "pt",
+    "pl",
+    "es"
+  ],
+  "processedRows": 0,
+  "created": [],
+  "updated": [],
+  "failed": [
+    {
+      "featureId": "latest-feature",
+      "locale": "en",
+      "action": "create",
+      "error": "NotFoundError: Not Found",
+      "row": {
+        "feature_id": "latest-feature",
+        "en": "what3words AI assistant",
+        "fr": "Assistant de localisation IA what3words",
+        "de": "what3words KI-Standortassistent",
+        "vi": "Trợ lý vị trí AI what3words",
+        "ja": "what3words AIロケーションアシスタント",
+        "cs": "Asistent polohy AI what3words",
+        "mn": "Mongolian",
+        "nl": "what3words AI-locatieassistent",
+        "zh-Hans": "what3words AI 位置助手",
+        "zh-Hant": "what3words AI 位置助理",
+        "it": "Assistente di localizzazione AI what3words",
+        "ko": "what3words AI 위치 도우미",
+        "ru": "AI помощник по местоположению what3words",
+        "pt": "Assistente de localização AI what3words",
+        "pl": "Asystent lokalizacji what3words AI",
+        "es": "Asistente de ubicación con IA de what3words"
+      }
+    }
+  ]
+}

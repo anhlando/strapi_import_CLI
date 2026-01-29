@@ -1,0 +1,10 @@
+[2026-01-28T09:34:43.070Z] [INFO] Default locale: en, other locales: fr, de, vi, ja, cs, mn, nl, zh-Hans, zh-Hant, it, ko, ru, pt, pl, es
+[2026-01-28T09:34:43.070Z] [INFO] 
+=== Processing feature_id="ai_assistant" ===
+[2026-01-28T09:34:43.071Z] [INFO] GET /pro-features?feature_id=ai_assistant&locale=en
+[2026-01-28T09:34:43.099Z] [INFO] Found base entry id=22, updating name for locale=en
+[2026-01-28T09:34:43.100Z] [INFO] PUT /pro-features/22?locale=en
+[2026-01-28T09:34:43.115Z] [ERROR] Error processing base locale for feature_id=ai_assistant: [object Object]
+[2026-01-28T09:34:43.115Z] [INFO] 
+Sync complete. Report written to: /Users/anhlando/Documents/Projects/CMS-strapi/strapi-translation/reports/pro-feature-sync-report-2026-01-28T09-34-43-115Z.json
+[2026-01-28T09:34:43.115Z] [INFO] Summary: processed=0, created=0, updated=0, failed=1

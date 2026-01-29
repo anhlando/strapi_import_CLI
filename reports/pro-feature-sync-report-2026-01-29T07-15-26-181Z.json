@@ -1,0 +1,136 @@
+{
+  "defaultLocale": "en",
+  "otherLocales": [
+    "fr",
+    "de",
+    "vi",
+    "ja",
+    "cs",
+    "mn",
+    "nl",
+    "zh-Hans",
+    "zh-Hant",
+    "it",
+    "ko",
+    "ru",
+    "pt",
+    "pl",
+    "es"
+  ],
+  "processedRows": 1,
+  "successes": [
+    {
+      "featureId": "new-feature",
+      "locale": "en",
+      "action": "create-base",
+      "documentId": "teftkzifel4k19cjs9lb2cdr",
+      "name": "what3words AI assistant"
+    },
+    {
+      "featureId": "new-feature",
+      "locale": "fr",
+      "action": "upsert-locale",
+      "documentId": "teftkzifel4k19cjs9lb2cdr",
+      "name": "Assistant de localisation IA what3words"
+    },
+    {
+      "featureId": "new-feature",
+      "locale": "de",
+      "action": "upsert-locale",
+      "documentId": "teftkzifel4k19cjs9lb2cdr",
+      "name": "what3words KI-Standortassistent"
+    },
+    {
+      "featureId": "new-feature",
+      "locale": "vi",
+      "action": "upsert-locale",
+      "documentId": "teftkzifel4k19cjs9lb2cdr",
+      "name": "Trợ lý vị trí AI what3words"
+    },
+    {
+      "featureId": "new-feature",
+      "locale": "ja",
+      "action": "upsert-locale",
+      "documentId": "teftkzifel4k19cjs9lb2cdr",
+      "name": "what3words AIロケーションアシスタント"
+    },
+    {
+      "featureId": "new-feature",
+      "locale": "cs",
+      "action": "upsert-locale",
+      "documentId": "teftkzifel4k19cjs9lb2cdr",
+      "name": "Asistent polohy AI what3words"
+    },
+    {
+      "featureId": "new-feature",
+      "locale": "mn",
+      "action": "upsert-locale",
+      "documentId": "teftkzifel4k19cjs9lb2cdr",
+      "name": "Mongolian"
+    },
+    {
+      "featureId": "new-feature",
+      "locale": "nl",
+      "action": "upsert-locale",
+      "documentId": "teftkzifel4k19cjs9lb2cdr",
+      "name": "what3words AI-locatieassistent"
+    },
+    {
+      "featureId": "new-feature",
+      "locale": "zh-Hans",
+      "action": "upsert-locale",
+      "documentId": "teftkzifel4k19cjs9lb2cdr",
+      "name": "what3words AI 位置助手"
+    },
+    {
+      "featureId": "new-feature",
+      "locale": "zh-Hant",
+      "action": "upsert-locale",
+      "documentId": "teftkzifel4k19cjs9lb2cdr",
+      "name": "what3words AI 位置助理"
+    },
+    {
+      "featureId": "new-feature",
+      "locale": "it",
+      "action": "upsert-locale",
+      "documentId": "teftkzifel4k19cjs9lb2cdr",
+      "name": "Assistente di localizzazione AI what3words"
+    },
+    {
+      "featureId": "new-feature",
+      "locale": "ko",
+      "action": "upsert-locale",
+      "documentId": "teftkzifel4k19cjs9lb2cdr",
+      "name": "what3words AI 위치 도우미"
+    },
+    {
+      "featureId": "new-feature",
+      "locale": "ru",
+      "action": "upsert-locale",
+      "documentId": "teftkzifel4k19cjs9lb2cdr",
+      "name": "AI помощник по местоположению what3words"
+    },
+    {
+      "featureId": "new-feature",
+      "locale": "pt",
+      "action": "upsert-locale",
+      "documentId": "teftkzifel4k19cjs9lb2cdr",
+      "name": "Assistente de localização AI what3words"
+    },
+    {
+      "featureId": "new-feature",
+      "locale": "pl",
+      "action": "upsert-locale",
+      "documentId": "teftkzifel4k19cjs9lb2cdr",
+      "name": "Asystent lokalizacji what3words AI"
+    },
+    {
+      "featureId": "new-feature",
+      "locale": "es",
+      "action": "upsert-locale",
+      "documentId": "teftkzifel4k19cjs9lb2cdr",
+      "name": "Asistente de ubicación con IA de what3words"
+    }
+  ],
+  "failures": []
+}

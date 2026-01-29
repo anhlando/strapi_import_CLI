@@ -1,0 +1,128 @@
+{
+  "defaultLocale": "en",
+  "otherLocales": [
+    "zh-Hans",
+    "zh-Hant",
+    "cs",
+    "nl",
+    "fr",
+    "de",
+    "it",
+    "ja",
+    "ko",
+    "pl",
+    "pt",
+    "ru",
+    "es",
+    "vi"
+  ],
+  "processedRows": 1,
+  "successes": [
+    {
+      "featureId": "photo-mode",
+      "locale": "en",
+      "action": "update-base",
+      "documentId": "uf0w78o6ye1dbwvw1wq1kbaf",
+      "name": "photo mode"
+    },
+    {
+      "featureId": "photo-mode",
+      "locale": "zh-Hans",
+      "action": "upsert-locale",
+      "documentId": "uf0w78o6ye1dbwvw1wq1kbaf",
+      "name": "photo mode Chinese"
+    },
+    {
+      "featureId": "photo-mode",
+      "locale": "zh-Hant",
+      "action": "upsert-locale",
+      "documentId": "uf0w78o6ye1dbwvw1wq1kbaf",
+      "name": "photo mode CN traditional"
+    },
+    {
+      "featureId": "photo-mode",
+      "locale": "cs",
+      "action": "upsert-locale",
+      "documentId": "uf0w78o6ye1dbwvw1wq1kbaf",
+      "name": "photo mode"
+    },
+    {
+      "featureId": "photo-mode",
+      "locale": "nl",
+      "action": "upsert-locale",
+      "documentId": "uf0w78o6ye1dbwvw1wq1kbaf",
+      "name": "photo mode"
+    },
+    {
+      "featureId": "photo-mode",
+      "locale": "fr",
+      "action": "upsert-locale",
+      "documentId": "uf0w78o6ye1dbwvw1wq1kbaf",
+      "name": "photo mode"
+    },
+    {
+      "featureId": "photo-mode",
+      "locale": "de",
+      "action": "upsert-locale",
+      "documentId": "uf0w78o6ye1dbwvw1wq1kbaf",
+      "name": "photo mode"
+    },
+    {
+      "featureId": "photo-mode",
+      "locale": "it",
+      "action": "upsert-locale",
+      "documentId": "uf0w78o6ye1dbwvw1wq1kbaf",
+      "name": "photo mode"
+    },
+    {
+      "featureId": "photo-mode",
+      "locale": "ja",
+      "action": "upsert-locale",
+      "documentId": "uf0w78o6ye1dbwvw1wq1kbaf",
+      "name": "photo mode"
+    },
+    {
+      "featureId": "photo-mode",
+      "locale": "ko",
+      "action": "upsert-locale",
+      "documentId": "uf0w78o6ye1dbwvw1wq1kbaf",
+      "name": "photo mode"
+    },
+    {
+      "featureId": "photo-mode",
+      "locale": "pl",
+      "action": "upsert-locale",
+      "documentId": "uf0w78o6ye1dbwvw1wq1kbaf",
+      "name": "photo mode"
+    },
+    {
+      "featureId": "photo-mode",
+      "locale": "pt",
+      "action": "upsert-locale",
+      "documentId": "uf0w78o6ye1dbwvw1wq1kbaf",
+      "name": "photo mode"
+    },
+    {
+      "featureId": "photo-mode",
+      "locale": "ru",
+      "action": "upsert-locale",
+      "documentId": "uf0w78o6ye1dbwvw1wq1kbaf",
+      "name": "photo mode"
+    },
+    {
+      "featureId": "photo-mode",
+      "locale": "es",
+      "action": "upsert-locale",
+      "documentId": "uf0w78o6ye1dbwvw1wq1kbaf",
+      "name": "photo mode"
+    },
+    {
+      "featureId": "photo-mode",
+      "locale": "vi",
+      "action": "upsert-locale",
+      "documentId": "uf0w78o6ye1dbwvw1wq1kbaf",
+      "name": "chế độ hình ảnh"
+    }
+  ],
+  "failures": []
+}

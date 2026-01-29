@@ -1,0 +1,69 @@
+[2026-01-29T06:09:43.956Z] [INFO] Default locale: en, other locales: fr, de, vi, ja, cs, mn, nl, zh-Hans, zh-Hant, it, ko, ru, pt, pl, es
+[2026-01-29T06:09:43.956Z] [INFO] 
+=== Processing feature_id="new-feature" ===
+[2026-01-29T06:09:43.956Z] [INFO] GET /pro-features?feature_id=new-feature&locale=en
+[2026-01-29T06:09:44.000Z] [INFO] No existing base entry. Creating feature_id=new-feature, locale=en
+[2026-01-29T06:09:44.000Z] [INFO] POST /pro-features feature_id=new-feature, locale=en
+[2026-01-29T06:09:44.017Z] [INFO] GET /pro-features?feature_id=new-feature&locale=fr (locale check)
+[2026-01-29T06:09:44.020Z] [INFO] Creating locale "fr" for feature_id=new-feature
+[2026-01-29T06:09:44.020Z] [INFO] POST /pro-features feature_id=new-feature, locale=fr
+[2026-01-29T06:09:44.032Z] [ERROR] Error processing locale=fr for feature_id=new-feature: [object Object]
+[2026-01-29T06:09:44.032Z] [INFO] GET /pro-features?feature_id=new-feature&locale=de (locale check)
+[2026-01-29T06:09:44.035Z] [INFO] Creating locale "de" for feature_id=new-feature
+[2026-01-29T06:09:44.035Z] [INFO] POST /pro-features feature_id=new-feature, locale=de
+[2026-01-29T06:09:44.043Z] [ERROR] Error processing locale=de for feature_id=new-feature: [object Object]
+[2026-01-29T06:09:44.043Z] [INFO] GET /pro-features?feature_id=new-feature&locale=vi (locale check)
+[2026-01-29T06:09:44.047Z] [INFO] Creating locale "vi" for feature_id=new-feature
+[2026-01-29T06:09:44.047Z] [INFO] POST /pro-features feature_id=new-feature, locale=vi
+[2026-01-29T06:09:44.054Z] [ERROR] Error processing locale=vi for feature_id=new-feature: [object Object]
+[2026-01-29T06:09:44.054Z] [INFO] GET /pro-features?feature_id=new-feature&locale=ja (locale check)
+[2026-01-29T06:09:44.058Z] [INFO] Creating locale "ja" for feature_id=new-feature
+[2026-01-29T06:09:44.058Z] [INFO] POST /pro-features feature_id=new-feature, locale=ja
+[2026-01-29T06:09:44.063Z] [ERROR] Error processing locale=ja for feature_id=new-feature: [object Object]
+[2026-01-29T06:09:44.063Z] [INFO] GET /pro-features?feature_id=new-feature&locale=cs (locale check)
+[2026-01-29T06:09:44.065Z] [INFO] Creating locale "cs" for feature_id=new-feature
+[2026-01-29T06:09:44.065Z] [INFO] POST /pro-features feature_id=new-feature, locale=cs
+[2026-01-29T06:09:44.069Z] [ERROR] Error processing locale=cs for feature_id=new-feature: [object Object]
+[2026-01-29T06:09:44.069Z] [INFO] GET /pro-features?feature_id=new-feature&locale=mn (locale check)
+[2026-01-29T06:09:44.071Z] [INFO] Creating locale "mn" for feature_id=new-feature
+[2026-01-29T06:09:44.071Z] [INFO] POST /pro-features feature_id=new-feature, locale=mn
+[2026-01-29T06:09:44.075Z] [ERROR] Error processing locale=mn for feature_id=new-feature: [object Object]
+[2026-01-29T06:09:44.075Z] [INFO] GET /pro-features?feature_id=new-feature&locale=nl (locale check)
+[2026-01-29T06:09:44.078Z] [INFO] Creating locale "nl" for feature_id=new-feature
+[2026-01-29T06:09:44.078Z] [INFO] POST /pro-features feature_id=new-feature, locale=nl
+[2026-01-29T06:09:44.082Z] [ERROR] Error processing locale=nl for feature_id=new-feature: [object Object]
+[2026-01-29T06:09:44.082Z] [INFO] GET /pro-features?feature_id=new-feature&locale=zh-Hans (locale check)
+[2026-01-29T06:09:44.084Z] [INFO] Creating locale "zh-Hans" for feature_id=new-feature
+[2026-01-29T06:09:44.085Z] [INFO] POST /pro-features feature_id=new-feature, locale=zh-Hans
+[2026-01-29T06:09:44.088Z] [ERROR] Error processing locale=zh-Hans for feature_id=new-feature: [object Object]
+[2026-01-29T06:09:44.088Z] [INFO] GET /pro-features?feature_id=new-feature&locale=zh-Hant (locale check)
+[2026-01-29T06:09:44.090Z] [INFO] Creating locale "zh-Hant" for feature_id=new-feature
+[2026-01-29T06:09:44.090Z] [INFO] POST /pro-features feature_id=new-feature, locale=zh-Hant
+[2026-01-29T06:09:44.094Z] [ERROR] Error processing locale=zh-Hant for feature_id=new-feature: [object Object]
+[2026-01-29T06:09:44.094Z] [INFO] GET /pro-features?feature_id=new-feature&locale=it (locale check)
+[2026-01-29T06:09:44.096Z] [INFO] Creating locale "it" for feature_id=new-feature
+[2026-01-29T06:09:44.096Z] [INFO] POST /pro-features feature_id=new-feature, locale=it
+[2026-01-29T06:09:44.101Z] [ERROR] Error processing locale=it for feature_id=new-feature: [object Object]
+[2026-01-29T06:09:44.101Z] [INFO] GET /pro-features?feature_id=new-feature&locale=ko (locale check)
+[2026-01-29T06:09:44.103Z] [INFO] Creating locale "ko" for feature_id=new-feature
+[2026-01-29T06:09:44.103Z] [INFO] POST /pro-features feature_id=new-feature, locale=ko
+[2026-01-29T06:09:44.108Z] [ERROR] Error processing locale=ko for feature_id=new-feature: [object Object]
+[2026-01-29T06:09:44.108Z] [INFO] GET /pro-features?feature_id=new-feature&locale=ru (locale check)
+[2026-01-29T06:09:44.111Z] [INFO] Creating locale "ru" for feature_id=new-feature
+[2026-01-29T06:09:44.111Z] [INFO] POST /pro-features feature_id=new-feature, locale=ru
+[2026-01-29T06:09:44.114Z] [ERROR] Error processing locale=ru for feature_id=new-feature: [object Object]
+[2026-01-29T06:09:44.114Z] [INFO] GET /pro-features?feature_id=new-feature&locale=pt (locale check)
+[2026-01-29T06:09:44.116Z] [INFO] Creating locale "pt" for feature_id=new-feature
+[2026-01-29T06:09:44.116Z] [INFO] POST /pro-features feature_id=new-feature, locale=pt
+[2026-01-29T06:09:44.120Z] [ERROR] Error processing locale=pt for feature_id=new-feature: [object Object]
+[2026-01-29T06:09:44.120Z] [INFO] GET /pro-features?feature_id=new-feature&locale=pl (locale check)
+[2026-01-29T06:09:44.121Z] [INFO] Creating locale "pl" for feature_id=new-feature
+[2026-01-29T06:09:44.122Z] [INFO] POST /pro-features feature_id=new-feature, locale=pl
+[2026-01-29T06:09:44.125Z] [ERROR] Error processing locale=pl for feature_id=new-feature: [object Object]
+[2026-01-29T06:09:44.125Z] [INFO] GET /pro-features?feature_id=new-feature&locale=es (locale check)
+[2026-01-29T06:09:44.128Z] [INFO] Creating locale "es" for feature_id=new-feature
+[2026-01-29T06:09:44.128Z] [INFO] POST /pro-features feature_id=new-feature, locale=es
+[2026-01-29T06:09:44.130Z] [ERROR] Error processing locale=es for feature_id=new-feature: [object Object]
+[2026-01-29T06:09:44.131Z] [INFO] 
+Sync complete. Report written to: /Users/anhlando/Documents/Projects/CMS-strapi/strapi-translation/reports/pro-feature-sync-report-2026-01-29T06-09-44-130Z.json
+[2026-01-29T06:09:44.131Z] [INFO] Summary: processed=1, created=1, updated=0, failed=15

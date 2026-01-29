@@ -1,0 +1,54 @@
+[2026-01-29T07:10:52.501Z] [INFO] Default locale: en, other locales: fr, de, vi, ja, cs, mn, nl, zh-Hans, zh-Hant, it, ko, ru, pt, pl, es
+[2026-01-29T07:10:52.502Z] [INFO] 
+=== Processing base_feature_id="new-feature" ===
+[2026-01-29T07:10:52.502Z] [INFO] GET /pro-features?feature_id=new-feature_en&locale=en
+[2026-01-29T07:10:52.538Z] [INFO] No existing base entry. Creating feature_id=new-feature_en, locale=en
+[2026-01-29T07:10:52.538Z] [INFO] POST /pro-features feature_id=new-feature_en, locale=en
+[2026-01-29T07:10:52.550Z] [INFO] GET /pro-features?feature_id=new-feature_fr&locale=fr (locale check)
+[2026-01-29T07:10:52.555Z] [INFO] Creating locale "fr" with feature_id=new-feature_fr
+[2026-01-29T07:10:52.555Z] [INFO] POST /pro-features feature_id=new-feature_fr, locale=fr
+[2026-01-29T07:10:52.563Z] [INFO] GET /pro-features?feature_id=new-feature_de&locale=de (locale check)
+[2026-01-29T07:10:52.565Z] [INFO] Creating locale "de" with feature_id=new-feature_de
+[2026-01-29T07:10:52.566Z] [INFO] POST /pro-features feature_id=new-feature_de, locale=de
+[2026-01-29T07:10:52.570Z] [INFO] GET /pro-features?feature_id=new-feature_vi&locale=vi (locale check)
+[2026-01-29T07:10:52.573Z] [INFO] Creating locale "vi" with feature_id=new-feature_vi
+[2026-01-29T07:10:52.573Z] [INFO] POST /pro-features feature_id=new-feature_vi, locale=vi
+[2026-01-29T07:10:52.577Z] [INFO] GET /pro-features?feature_id=new-feature_ja&locale=ja (locale check)
+[2026-01-29T07:10:52.579Z] [INFO] Creating locale "ja" with feature_id=new-feature_ja
+[2026-01-29T07:10:52.579Z] [INFO] POST /pro-features feature_id=new-feature_ja, locale=ja
+[2026-01-29T07:10:52.584Z] [INFO] GET /pro-features?feature_id=new-feature_cs&locale=cs (locale check)
+[2026-01-29T07:10:52.586Z] [INFO] Creating locale "cs" with feature_id=new-feature_cs
+[2026-01-29T07:10:52.586Z] [INFO] POST /pro-features feature_id=new-feature_cs, locale=cs
+[2026-01-29T07:10:52.590Z] [INFO] GET /pro-features?feature_id=new-feature_mn&locale=mn (locale check)
+[2026-01-29T07:10:52.593Z] [INFO] Creating locale "mn" with feature_id=new-feature_mn
+[2026-01-29T07:10:52.593Z] [INFO] POST /pro-features feature_id=new-feature_mn, locale=mn
+[2026-01-29T07:10:52.597Z] [INFO] GET /pro-features?feature_id=new-feature_nl&locale=nl (locale check)
+[2026-01-29T07:10:52.600Z] [INFO] Creating locale "nl" with feature_id=new-feature_nl
+[2026-01-29T07:10:52.600Z] [INFO] POST /pro-features feature_id=new-feature_nl, locale=nl
+[2026-01-29T07:10:52.603Z] [INFO] GET /pro-features?feature_id=new-feature_zh-Hans&locale=zh-Hans (locale check)
+[2026-01-29T07:10:52.606Z] [INFO] Creating locale "zh-Hans" with feature_id=new-feature_zh-Hans
+[2026-01-29T07:10:52.606Z] [INFO] POST /pro-features feature_id=new-feature_zh-Hans, locale=zh-Hans
+[2026-01-29T07:10:52.610Z] [INFO] GET /pro-features?feature_id=new-feature_zh-Hant&locale=zh-Hant (locale check)
+[2026-01-29T07:10:52.612Z] [INFO] Creating locale "zh-Hant" with feature_id=new-feature_zh-Hant
+[2026-01-29T07:10:52.612Z] [INFO] POST /pro-features feature_id=new-feature_zh-Hant, locale=zh-Hant
+[2026-01-29T07:10:52.615Z] [INFO] GET /pro-features?feature_id=new-feature_it&locale=it (locale check)
+[2026-01-29T07:10:52.618Z] [INFO] Creating locale "it" with feature_id=new-feature_it
+[2026-01-29T07:10:52.618Z] [INFO] POST /pro-features feature_id=new-feature_it, locale=it
+[2026-01-29T07:10:52.622Z] [INFO] GET /pro-features?feature_id=new-feature_ko&locale=ko (locale check)
+[2026-01-29T07:10:52.624Z] [INFO] Creating locale "ko" with feature_id=new-feature_ko
+[2026-01-29T07:10:52.624Z] [INFO] POST /pro-features feature_id=new-feature_ko, locale=ko
+[2026-01-29T07:10:52.628Z] [INFO] GET /pro-features?feature_id=new-feature_ru&locale=ru (locale check)
+[2026-01-29T07:10:52.630Z] [INFO] Creating locale "ru" with feature_id=new-feature_ru
+[2026-01-29T07:10:52.630Z] [INFO] POST /pro-features feature_id=new-feature_ru, locale=ru
+[2026-01-29T07:10:52.634Z] [INFO] GET /pro-features?feature_id=new-feature_pt&locale=pt (locale check)
+[2026-01-29T07:10:52.638Z] [INFO] Creating locale "pt" with feature_id=new-feature_pt
+[2026-01-29T07:10:52.638Z] [INFO] POST /pro-features feature_id=new-feature_pt, locale=pt
+[2026-01-29T07:10:52.646Z] [INFO] GET /pro-features?feature_id=new-feature_pl&locale=pl (locale check)
+[2026-01-29T07:10:52.649Z] [INFO] Creating locale "pl" with feature_id=new-feature_pl
+[2026-01-29T07:10:52.649Z] [INFO] POST /pro-features feature_id=new-feature_pl, locale=pl
+[2026-01-29T07:10:52.657Z] [INFO] GET /pro-features?feature_id=new-feature_es&locale=es (locale check)
+[2026-01-29T07:10:52.664Z] [INFO] Creating locale "es" with feature_id=new-feature_es
+[2026-01-29T07:10:52.664Z] [INFO] POST /pro-features feature_id=new-feature_es, locale=es
+[2026-01-29T07:10:52.667Z] [INFO] 
+Sync complete. Report written to: /Users/anhlando/Documents/Projects/CMS-strapi/strapi-translation/reports/pro-feature-sync-report-2026-01-29T07-10-52-667Z.json
+[2026-01-29T07:10:52.667Z] [INFO] Summary: processed=1, created=16, updated=0, failed=0

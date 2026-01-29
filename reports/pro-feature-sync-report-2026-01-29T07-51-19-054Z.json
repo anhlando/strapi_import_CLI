@@ -1,0 +1,233 @@
+{
+  "defaultLocale": "en",
+  "otherLocales": [
+    "zh-Hans",
+    "zh-Hant",
+    "cs",
+    "nl",
+    "fr",
+    "de",
+    "it",
+    "ja",
+    "ko",
+    "pl",
+    "pt",
+    "ru",
+    "es",
+    "vi"
+  ],
+  "processedRows": 2,
+  "successes": [
+    {
+      "featureId": "photo-mode",
+      "locale": "en",
+      "action": "update-base",
+      "documentId": "uf0w78o6ye1dbwvw1wq1kbaf",
+      "name": "photo mode"
+    },
+    {
+      "featureId": "photo-mode",
+      "locale": "zh-Hans",
+      "action": "upsert-locale",
+      "documentId": "uf0w78o6ye1dbwvw1wq1kbaf",
+      "name": "Hans photo mode"
+    },
+    {
+      "featureId": "photo-mode",
+      "locale": "zh-Hant",
+      "action": "upsert-locale",
+      "documentId": "uf0w78o6ye1dbwvw1wq1kbaf",
+      "name": "Hant photo mode"
+    },
+    {
+      "featureId": "photo-mode",
+      "locale": "cs",
+      "action": "upsert-locale",
+      "documentId": "uf0w78o6ye1dbwvw1wq1kbaf",
+      "name": "photo mode"
+    },
+    {
+      "featureId": "photo-mode",
+      "locale": "nl",
+      "action": "upsert-locale",
+      "documentId": "uf0w78o6ye1dbwvw1wq1kbaf",
+      "name": "photo mode"
+    },
+    {
+      "featureId": "photo-mode",
+      "locale": "fr",
+      "action": "upsert-locale",
+      "documentId": "uf0w78o6ye1dbwvw1wq1kbaf",
+      "name": "photo mode"
+    },
+    {
+      "featureId": "photo-mode",
+      "locale": "de",
+      "action": "upsert-locale",
+      "documentId": "uf0w78o6ye1dbwvw1wq1kbaf",
+      "name": "photo mode"
+    },
+    {
+      "featureId": "photo-mode",
+      "locale": "it",
+      "action": "upsert-locale",
+      "documentId": "uf0w78o6ye1dbwvw1wq1kbaf",
+      "name": "photo mode"
+    },
+    {
+      "featureId": "photo-mode",
+      "locale": "ja",
+      "action": "upsert-locale",
+      "documentId": "uf0w78o6ye1dbwvw1wq1kbaf",
+      "name": "photo mode"
+    },
+    {
+      "featureId": "photo-mode",
+      "locale": "ko",
+      "action": "upsert-locale",
+      "documentId": "uf0w78o6ye1dbwvw1wq1kbaf",
+      "name": "photo mode"
+    },
+    {
+      "featureId": "photo-mode",
+      "locale": "pl",
+      "action": "upsert-locale",
+      "documentId": "uf0w78o6ye1dbwvw1wq1kbaf",
+      "name": "photo mode"
+    },
+    {
+      "featureId": "photo-mode",
+      "locale": "pt",
+      "action": "upsert-locale",
+      "documentId": "uf0w78o6ye1dbwvw1wq1kbaf",
+      "name": "photo mode"
+    },
+    {
+      "featureId": "photo-mode",
+      "locale": "ru",
+      "action": "upsert-locale",
+      "documentId": "uf0w78o6ye1dbwvw1wq1kbaf",
+      "name": "photo mode"
+    },
+    {
+      "featureId": "photo-mode",
+      "locale": "es",
+      "action": "upsert-locale",
+      "documentId": "uf0w78o6ye1dbwvw1wq1kbaf",
+      "name": "photo mode"
+    },
+    {
+      "featureId": "photo-mode",
+      "locale": "vi",
+      "action": "upsert-locale",
+      "documentId": "uf0w78o6ye1dbwvw1wq1kbaf",
+      "name": "chế độ hình ảnh"
+    },
+    {
+      "featureId": "import_file",
+      "locale": "en",
+      "action": "create-base",
+      "documentId": "x850f8l1cjo9q7r0rceew050",
+      "name": "Import files to extract locations"
+    },
+    {
+      "featureId": "import_file",
+      "locale": "zh-Hans",
+      "action": "upsert-locale",
+      "documentId": "x850f8l1cjo9q7r0rceew050",
+      "name": "导入文件以提取位置"
+    },
+    {
+      "featureId": "import_file",
+      "locale": "zh-Hant",
+      "action": "upsert-locale",
+      "documentId": "x850f8l1cjo9q7r0rceew050",
+      "name": "匯入檔案以提取位置"
+    },
+    {
+      "featureId": "import_file",
+      "locale": "cs",
+      "action": "upsert-locale",
+      "documentId": "x850f8l1cjo9q7r0rceew050",
+      "name": "Importujte soubory pro extrakci poloh"
+    },
+    {
+      "featureId": "import_file",
+      "locale": "nl",
+      "action": "upsert-locale",
+      "documentId": "x850f8l1cjo9q7r0rceew050",
+      "name": "Importeer bestanden om locaties te extraheren"
+    },
+    {
+      "featureId": "import_file",
+      "locale": "fr",
+      "action": "upsert-locale",
+      "documentId": "x850f8l1cjo9q7r0rceew050",
+      "name": "Importer des fichiers pour extraire les lieux"
+    },
+    {
+      "featureId": "import_file",
+      "locale": "de",
+      "action": "upsert-locale",
+      "documentId": "x850f8l1cjo9q7r0rceew050",
+      "name": "Dateien importieren, um Standorte zu extrahieren"
+    },
+    {
+      "featureId": "import_file",
+      "locale": "it",
+      "action": "upsert-locale",
+      "documentId": "x850f8l1cjo9q7r0rceew050",
+      "name": "Importa file per estrarre posizioni"
+    },
+    {
+      "featureId": "import_file",
+      "locale": "ja",
+      "action": "upsert-locale",
+      "documentId": "x850f8l1cjo9q7r0rceew050",
+      "name": "ファイルをインポートして場所を抽出"
+    },
+    {
+      "featureId": "import_file",
+      "locale": "ko",
+      "action": "upsert-locale",
+      "documentId": "x850f8l1cjo9q7r0rceew050",
+      "name": "파일을 가져와서 위치 추출"
+    },
+    {
+      "featureId": "import_file",
+      "locale": "pl",
+      "action": "upsert-locale",
+      "documentId": "x850f8l1cjo9q7r0rceew050",
+      "name": "Importuj pliki, aby wyodrębnić lokalizacje"
+    },
+    {
+      "featureId": "import_file",
+      "locale": "pt",
+      "action": "upsert-locale",
+      "documentId": "x850f8l1cjo9q7r0rceew050",
+      "name": "Importar ficheiros para extrair localizações"
+    },
+    {
+      "featureId": "import_file",
+      "locale": "ru",
+      "action": "upsert-locale",
+      "documentId": "x850f8l1cjo9q7r0rceew050",
+      "name": "Импортируйте файлы для извлечения местоположений"
+    },
+    {
+      "featureId": "import_file",
+      "locale": "es",
+      "action": "upsert-locale",
+      "documentId": "x850f8l1cjo9q7r0rceew050",
+      "name": "Importa archivos para extraer ubicaciones"
+    },
+    {
+      "featureId": "import_file",
+      "locale": "vi",
+      "action": "upsert-locale",
+      "documentId": "x850f8l1cjo9q7r0rceew050",
+      "name": "Nhập tệp để trích xuất vị trí"
+    }
+  ],
+  "failures": []
+}

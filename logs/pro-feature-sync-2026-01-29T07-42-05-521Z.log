@@ -1,0 +1,24 @@
+[2026-01-29T07:42:05.523Z] [INFO] Default locale: en, other locales: zh-Hans, zh-Hant, cs, nl, fr, de, it, ja, ko, pl, pt, ru, es, vi
+[2026-01-29T07:42:05.523Z] [INFO] 
+=== Processing feature_id="photo-mode" ===
+[2026-01-29T07:42:05.523Z] [INFO] GET /pro-features?feature_id=photo-mode
+[2026-01-29T07:42:05.560Z] [INFO] No existing document. Creating base document feature_id=photo-mode, locale=en
+[2026-01-29T07:42:05.560Z] [INFO] POST /pro-features (base) feature_id=photo-mode, locale=en
+[2026-01-29T07:42:05.575Z] [INFO] PUT /pro-features/uf0w78o6ye1dbwvw1wq1kbaf?locale=zh-Hans (create/update locale version)
+[2026-01-29T07:42:05.585Z] [INFO] PUT /pro-features/uf0w78o6ye1dbwvw1wq1kbaf?locale=zh-Hant (create/update locale version)
+[2026-01-29T07:42:05.598Z] [INFO] PUT /pro-features/uf0w78o6ye1dbwvw1wq1kbaf?locale=cs (create/update locale version)
+[2026-01-29T07:42:05.605Z] [INFO] PUT /pro-features/uf0w78o6ye1dbwvw1wq1kbaf?locale=nl (create/update locale version)
+[2026-01-29T07:42:05.612Z] [INFO] PUT /pro-features/uf0w78o6ye1dbwvw1wq1kbaf?locale=fr (create/update locale version)
+[2026-01-29T07:42:05.618Z] [INFO] PUT /pro-features/uf0w78o6ye1dbwvw1wq1kbaf?locale=de (create/update locale version)
+[2026-01-29T07:42:05.626Z] [INFO] PUT /pro-features/uf0w78o6ye1dbwvw1wq1kbaf?locale=it (create/update locale version)
+[2026-01-29T07:42:05.632Z] [INFO] PUT /pro-features/uf0w78o6ye1dbwvw1wq1kbaf?locale=ja (create/update locale version)
+[2026-01-29T07:42:05.637Z] [INFO] PUT /pro-features/uf0w78o6ye1dbwvw1wq1kbaf?locale=ko (create/update locale version)
+[2026-01-29T07:42:05.642Z] [INFO] PUT /pro-features/uf0w78o6ye1dbwvw1wq1kbaf?locale=pl (create/update locale version)
+[2026-01-29T07:42:05.645Z] [INFO] PUT /pro-features/uf0w78o6ye1dbwvw1wq1kbaf?locale=pt (create/update locale version)
+[2026-01-29T07:42:05.649Z] [INFO] PUT /pro-features/uf0w78o6ye1dbwvw1wq1kbaf?locale=ru (create/update locale version)
+[2026-01-29T07:42:05.653Z] [INFO] PUT /pro-features/uf0w78o6ye1dbwvw1wq1kbaf?locale=es (create/update locale version)
+[2026-01-29T07:42:05.657Z] [INFO] PUT /pro-features/uf0w78o6ye1dbwvw1wq1kbaf?locale=vi (create/update locale version)
+[2026-01-29T07:42:05.666Z] [ERROR] Error processing locale=vi for feature_id=photo-mode: ValidationError: This attribute must be unique
+[2026-01-29T07:42:05.666Z] [INFO] 
+Sync complete. Report written to: /Users/anhlando/Documents/Projects/CMS-strapi/strapi-translation/reports/pro-feature-sync-report-2026-01-29T07-42-05-666Z.json
+[2026-01-29T07:42:05.666Z] [INFO] Summary: processed=1, success=14, failures=1

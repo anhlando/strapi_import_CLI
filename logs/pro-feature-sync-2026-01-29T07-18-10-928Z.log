@@ -1,0 +1,24 @@
+[2026-01-29T07:18:10.930Z] [INFO] Default locale: en, other locales: fr, de, vi, ja, cs, mn, nl, zh-Hans, zh-Hant, it, ko, ru, pt, pl, es
+[2026-01-29T07:18:10.930Z] [INFO] 
+=== Processing feature_id="ai_assistant" ===
+[2026-01-29T07:18:10.931Z] [INFO] GET /pro-features?feature_id=ai_assistant
+[2026-01-29T07:18:10.959Z] [INFO] Found existing documentId=w9k0gn3ydl9gqufv8ks69i17. Updating base locale=en
+[2026-01-29T07:18:10.959Z] [INFO] PUT /pro-features/w9k0gn3ydl9gqufv8ks69i17?locale=en (create/update locale version)
+[2026-01-29T07:18:10.979Z] [INFO] PUT /pro-features/w9k0gn3ydl9gqufv8ks69i17?locale=fr (create/update locale version)
+[2026-01-29T07:18:10.988Z] [INFO] PUT /pro-features/w9k0gn3ydl9gqufv8ks69i17?locale=de (create/update locale version)
+[2026-01-29T07:18:10.995Z] [INFO] PUT /pro-features/w9k0gn3ydl9gqufv8ks69i17?locale=vi (create/update locale version)
+[2026-01-29T07:18:11.001Z] [INFO] PUT /pro-features/w9k0gn3ydl9gqufv8ks69i17?locale=ja (create/update locale version)
+[2026-01-29T07:18:11.008Z] [INFO] PUT /pro-features/w9k0gn3ydl9gqufv8ks69i17?locale=cs (create/update locale version)
+[2026-01-29T07:18:11.013Z] [INFO] PUT /pro-features/w9k0gn3ydl9gqufv8ks69i17?locale=mn (create/update locale version)
+[2026-01-29T07:18:11.019Z] [INFO] PUT /pro-features/w9k0gn3ydl9gqufv8ks69i17?locale=nl (create/update locale version)
+[2026-01-29T07:18:11.024Z] [INFO] PUT /pro-features/w9k0gn3ydl9gqufv8ks69i17?locale=zh-Hans (create/update locale version)
+[2026-01-29T07:18:11.029Z] [INFO] PUT /pro-features/w9k0gn3ydl9gqufv8ks69i17?locale=zh-Hant (create/update locale version)
+[2026-01-29T07:18:11.045Z] [INFO] PUT /pro-features/w9k0gn3ydl9gqufv8ks69i17?locale=it (create/update locale version)
+[2026-01-29T07:18:11.057Z] [INFO] PUT /pro-features/w9k0gn3ydl9gqufv8ks69i17?locale=ko (create/update locale version)
+[2026-01-29T07:18:11.067Z] [INFO] PUT /pro-features/w9k0gn3ydl9gqufv8ks69i17?locale=ru (create/update locale version)
+[2026-01-29T07:18:11.073Z] [INFO] PUT /pro-features/w9k0gn3ydl9gqufv8ks69i17?locale=pt (create/update locale version)
+[2026-01-29T07:18:11.083Z] [INFO] PUT /pro-features/w9k0gn3ydl9gqufv8ks69i17?locale=pl (create/update locale version)
+[2026-01-29T07:18:11.087Z] [INFO] PUT /pro-features/w9k0gn3ydl9gqufv8ks69i17?locale=es (create/update locale version)
+[2026-01-29T07:18:11.091Z] [INFO] 
+Sync complete. Report written to: /Users/anhlando/Documents/Projects/CMS-strapi/strapi-translation/reports/pro-feature-sync-report-2026-01-29T07-18-11-090Z.json
+[2026-01-29T07:18:11.091Z] [INFO] Summary: processed=1, success=16, failures=0

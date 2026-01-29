@@ -1,0 +1,649 @@
+{
+  "defaultLocale": "en",
+  "otherLocales": [
+    "fr",
+    "de",
+    "vi",
+    "ja",
+    "cs",
+    "mn",
+    "nl",
+    "zh-Hans",
+    "zh-Hant",
+    "it",
+    "ko",
+    "ru",
+    "pt",
+    "pl",
+    "es"
+  ],
+  "processedRows": 1,
+  "created": [
+    {
+      "featureId": "extra-feature",
+      "locale": "en",
+      "action": "create",
+      "id": 26,
+      "documentId": "wn5gsv1ayv5vppqzwb0ofm1i",
+      "name": "what3words AI assistant"
+    }
+  ],
+  "updated": [],
+  "failed": [
+    {
+      "featureId": "extra-feature",
+      "locale": "fr",
+      "action": "update",
+      "error": {
+        "status": 400,
+        "name": "ValidationError",
+        "message": "This attribute must be unique",
+        "details": {
+          "errors": [
+            {
+              "path": [
+                "feature_id"
+              ],
+              "message": "This attribute must be unique",
+              "name": "ValidationError",
+              "value": "extra-feature"
+            }
+          ]
+        }
+      },
+      "row": {
+        "feature_id": "extra-feature",
+        "en": "what3words AI assistant",
+        "fr": "Assistant de localisation IA what3words",
+        "de": "what3words KI-Standortassistent",
+        "vi": "Trợ lý vị trí AI what3words",
+        "ja": "what3words AIロケーションアシスタント",
+        "cs": "Asistent polohy AI what3words",
+        "mn": "Mongolian",
+        "nl": "what3words AI-locatieassistent",
+        "zh-Hans": "what3words AI 位置助手",
+        "zh-Hant": "what3words AI 位置助理",
+        "it": "Assistente di localizzazione AI what3words",
+        "ko": "what3words AI 위치 도우미",
+        "ru": "AI помощник по местоположению what3words",
+        "pt": "Assistente de localização AI what3words",
+        "pl": "Asystent lokalizacji what3words AI",
+        "es": "Asistente de ubicación con IA de what3words"
+      }
+    },
+    {
+      "featureId": "extra-feature",
+      "locale": "de",
+      "action": "update",
+      "error": {
+        "status": 400,
+        "name": "ValidationError",
+        "message": "This attribute must be unique",
+        "details": {
+          "errors": [
+            {
+              "path": [
+                "feature_id"
+              ],
+              "message": "This attribute must be unique",
+              "name": "ValidationError",
+              "value": "extra-feature"
+            }
+          ]
+        }
+      },
+      "row": {
+        "feature_id": "extra-feature",
+        "en": "what3words AI assistant",
+        "fr": "Assistant de localisation IA what3words",
+        "de": "what3words KI-Standortassistent",
+        "vi": "Trợ lý vị trí AI what3words",
+        "ja": "what3words AIロケーションアシスタント",
+        "cs": "Asistent polohy AI what3words",
+        "mn": "Mongolian",
+        "nl": "what3words AI-locatieassistent",
+        "zh-Hans": "what3words AI 位置助手",
+        "zh-Hant": "what3words AI 位置助理",
+        "it": "Assistente di localizzazione AI what3words",
+        "ko": "what3words AI 위치 도우미",
+        "ru": "AI помощник по местоположению what3words",
+        "pt": "Assistente de localização AI what3words",
+        "pl": "Asystent lokalizacji what3words AI",
+        "es": "Asistente de ubicación con IA de what3words"
+      }
+    },
+    {
+      "featureId": "extra-feature",
+      "locale": "vi",
+      "action": "update",
+      "error": {
+        "status": 400,
+        "name": "ValidationError",
+        "message": "This attribute must be unique",
+        "details": {
+          "errors": [
+            {
+              "path": [
+                "feature_id"
+              ],
+              "message": "This attribute must be unique",
+              "name": "ValidationError",
+              "value": "extra-feature"
+            }
+          ]
+        }
+      },
+      "row": {
+        "feature_id": "extra-feature",
+        "en": "what3words AI assistant",
+        "fr": "Assistant de localisation IA what3words",
+        "de": "what3words KI-Standortassistent",
+        "vi": "Trợ lý vị trí AI what3words",
+        "ja": "what3words AIロケーションアシスタント",
+        "cs": "Asistent polohy AI what3words",
+        "mn": "Mongolian",
+        "nl": "what3words AI-locatieassistent",
+        "zh-Hans": "what3words AI 位置助手",
+        "zh-Hant": "what3words AI 位置助理",
+        "it": "Assistente di localizzazione AI what3words",
+        "ko": "what3words AI 위치 도우미",
+        "ru": "AI помощник по местоположению what3words",
+        "pt": "Assistente de localização AI what3words",
+        "pl": "Asystent lokalizacji what3words AI",
+        "es": "Asistente de ubicación con IA de what3words"
+      }
+    },
+    {
+      "featureId": "extra-feature",
+      "locale": "ja",
+      "action": "update",
+      "error": {
+        "status": 400,
+        "name": "ValidationError",
+        "message": "This attribute must be unique",
+        "details": {
+          "errors": [
+            {
+              "path": [
+                "feature_id"
+              ],
+              "message": "This attribute must be unique",
+              "name": "ValidationError",
+              "value": "extra-feature"
+            }
+          ]
+        }
+      },
+      "row": {
+        "feature_id": "extra-feature",
+        "en": "what3words AI assistant",
+        "fr": "Assistant de localisation IA what3words",
+        "de": "what3words KI-Standortassistent",
+        "vi": "Trợ lý vị trí AI what3words",
+        "ja": "what3words AIロケーションアシスタント",
+        "cs": "Asistent polohy AI what3words",
+        "mn": "Mongolian",
+        "nl": "what3words AI-locatieassistent",
+        "zh-Hans": "what3words AI 位置助手",
+        "zh-Hant": "what3words AI 位置助理",
+        "it": "Assistente di localizzazione AI what3words",
+        "ko": "what3words AI 위치 도우미",
+        "ru": "AI помощник по местоположению what3words",
+        "pt": "Assistente de localização AI what3words",
+        "pl": "Asystent lokalizacji what3words AI",
+        "es": "Asistente de ubicación con IA de what3words"
+      }
+    },
+    {
+      "featureId": "extra-feature",
+      "locale": "cs",
+      "action": "update",
+      "error": {
+        "status": 400,
+        "name": "ValidationError",
+        "message": "This attribute must be unique",
+        "details": {
+          "errors": [
+            {
+              "path": [
+                "feature_id"
+              ],
+              "message": "This attribute must be unique",
+              "name": "ValidationError",
+              "value": "extra-feature"
+            }
+          ]
+        }
+      },
+      "row": {
+        "feature_id": "extra-feature",
+        "en": "what3words AI assistant",
+        "fr": "Assistant de localisation IA what3words",
+        "de": "what3words KI-Standortassistent",
+        "vi": "Trợ lý vị trí AI what3words",
+        "ja": "what3words AIロケーションアシスタント",
+        "cs": "Asistent polohy AI what3words",
+        "mn": "Mongolian",
+        "nl": "what3words AI-locatieassistent",
+        "zh-Hans": "what3words AI 位置助手",
+        "zh-Hant": "what3words AI 位置助理",
+        "it": "Assistente di localizzazione AI what3words",
+        "ko": "what3words AI 위치 도우미",
+        "ru": "AI помощник по местоположению what3words",
+        "pt": "Assistente de localização AI what3words",
+        "pl": "Asystent lokalizacji what3words AI",
+        "es": "Asistente de ubicación con IA de what3words"
+      }
+    },
+    {
+      "featureId": "extra-feature",
+      "locale": "mn",
+      "action": "update",
+      "error": {
+        "status": 400,
+        "name": "ValidationError",
+        "message": "This attribute must be unique",
+        "details": {
+          "errors": [
+            {
+              "path": [
+                "feature_id"
+              ],
+              "message": "This attribute must be unique",
+              "name": "ValidationError",
+              "value": "extra-feature"
+            }
+          ]
+        }
+      },
+      "row": {
+        "feature_id": "extra-feature",
+        "en": "what3words AI assistant",
+        "fr": "Assistant de localisation IA what3words",
+        "de": "what3words KI-Standortassistent",
+        "vi": "Trợ lý vị trí AI what3words",
+        "ja": "what3words AIロケーションアシスタント",
+        "cs": "Asistent polohy AI what3words",
+        "mn": "Mongolian",
+        "nl": "what3words AI-locatieassistent",
+        "zh-Hans": "what3words AI 位置助手",
+        "zh-Hant": "what3words AI 位置助理",
+        "it": "Assistente di localizzazione AI what3words",
+        "ko": "what3words AI 위치 도우미",
+        "ru": "AI помощник по местоположению what3words",
+        "pt": "Assistente de localização AI what3words",
+        "pl": "Asystent lokalizacji what3words AI",
+        "es": "Asistente de ubicación con IA de what3words"
+      }
+    },
+    {
+      "featureId": "extra-feature",
+      "locale": "nl",
+      "action": "update",
+      "error": {
+        "status": 400,
+        "name": "ValidationError",
+        "message": "This attribute must be unique",
+        "details": {
+          "errors": [
+            {
+              "path": [
+                "feature_id"
+              ],
+              "message": "This attribute must be unique",
+              "name": "ValidationError",
+              "value": "extra-feature"
+            }
+          ]
+        }
+      },
+      "row": {
+        "feature_id": "extra-feature",
+        "en": "what3words AI assistant",
+        "fr": "Assistant de localisation IA what3words",
+        "de": "what3words KI-Standortassistent",
+        "vi": "Trợ lý vị trí AI what3words",
+        "ja": "what3words AIロケーションアシスタント",
+        "cs": "Asistent polohy AI what3words",
+        "mn": "Mongolian",
+        "nl": "what3words AI-locatieassistent",
+        "zh-Hans": "what3words AI 位置助手",
+        "zh-Hant": "what3words AI 位置助理",
+        "it": "Assistente di localizzazione AI what3words",
+        "ko": "what3words AI 위치 도우미",
+        "ru": "AI помощник по местоположению what3words",
+        "pt": "Assistente de localização AI what3words",
+        "pl": "Asystent lokalizacji what3words AI",
+        "es": "Asistente de ubicación con IA de what3words"
+      }
+    },
+    {
+      "featureId": "extra-feature",
+      "locale": "zh-Hans",
+      "action": "update",
+      "error": {
+        "status": 400,
+        "name": "ValidationError",
+        "message": "This attribute must be unique",
+        "details": {
+          "errors": [
+            {
+              "path": [
+                "feature_id"
+              ],
+              "message": "This attribute must be unique",
+              "name": "ValidationError",
+              "value": "extra-feature"
+            }
+          ]
+        }
+      },
+      "row": {
+        "feature_id": "extra-feature",
+        "en": "what3words AI assistant",
+        "fr": "Assistant de localisation IA what3words",
+        "de": "what3words KI-Standortassistent",
+        "vi": "Trợ lý vị trí AI what3words",
+        "ja": "what3words AIロケーションアシスタント",
+        "cs": "Asistent polohy AI what3words",
+        "mn": "Mongolian",
+        "nl": "what3words AI-locatieassistent",
+        "zh-Hans": "what3words AI 位置助手",
+        "zh-Hant": "what3words AI 位置助理",
+        "it": "Assistente di localizzazione AI what3words",
+        "ko": "what3words AI 위치 도우미",
+        "ru": "AI помощник по местоположению what3words",
+        "pt": "Assistente de localização AI what3words",
+        "pl": "Asystent lokalizacji what3words AI",
+        "es": "Asistente de ubicación con IA de what3words"
+      }
+    },
+    {
+      "featureId": "extra-feature",
+      "locale": "zh-Hant",
+      "action": "update",
+      "error": {
+        "status": 400,
+        "name": "ValidationError",
+        "message": "This attribute must be unique",
+        "details": {
+          "errors": [
+            {
+              "path": [
+                "feature_id"
+              ],
+              "message": "This attribute must be unique",
+              "name": "ValidationError",
+              "value": "extra-feature"
+            }
+          ]
+        }
+      },
+      "row": {
+        "feature_id": "extra-feature",
+        "en": "what3words AI assistant",
+        "fr": "Assistant de localisation IA what3words",
+        "de": "what3words KI-Standortassistent",
+        "vi": "Trợ lý vị trí AI what3words",
+        "ja": "what3words AIロケーションアシスタント",
+        "cs": "Asistent polohy AI what3words",
+        "mn": "Mongolian",
+        "nl": "what3words AI-locatieassistent",
+        "zh-Hans": "what3words AI 位置助手",
+        "zh-Hant": "what3words AI 位置助理",
+        "it": "Assistente di localizzazione AI what3words",
+        "ko": "what3words AI 위치 도우미",
+        "ru": "AI помощник по местоположению what3words",
+        "pt": "Assistente de localização AI what3words",
+        "pl": "Asystent lokalizacji what3words AI",
+        "es": "Asistente de ubicación con IA de what3words"
+      }
+    },
+    {
+      "featureId": "extra-feature",
+      "locale": "it",
+      "action": "update",
+      "error": {
+        "status": 400,
+        "name": "ValidationError",
+        "message": "This attribute must be unique",
+        "details": {
+          "errors": [
+            {
+              "path": [
+                "feature_id"
+              ],
+              "message": "This attribute must be unique",
+              "name": "ValidationError",
+              "value": "extra-feature"
+            }
+          ]
+        }
+      },
+      "row": {
+        "feature_id": "extra-feature",
+        "en": "what3words AI assistant",
+        "fr": "Assistant de localisation IA what3words",
+        "de": "what3words KI-Standortassistent",
+        "vi": "Trợ lý vị trí AI what3words",
+        "ja": "what3words AIロケーションアシスタント",
+        "cs": "Asistent polohy AI what3words",
+        "mn": "Mongolian",
+        "nl": "what3words AI-locatieassistent",
+        "zh-Hans": "what3words AI 位置助手",
+        "zh-Hant": "what3words AI 位置助理",
+        "it": "Assistente di localizzazione AI what3words",
+        "ko": "what3words AI 위치 도우미",
+        "ru": "AI помощник по местоположению what3words",
+        "pt": "Assistente de localização AI what3words",
+        "pl": "Asystent lokalizacji what3words AI",
+        "es": "Asistente de ubicación con IA de what3words"
+      }
+    },
+    {
+      "featureId": "extra-feature",
+      "locale": "ko",
+      "action": "update",
+      "error": {
+        "status": 400,
+        "name": "ValidationError",
+        "message": "This attribute must be unique",
+        "details": {
+          "errors": [
+            {
+              "path": [
+                "feature_id"
+              ],
+              "message": "This attribute must be unique",
+              "name": "ValidationError",
+              "value": "extra-feature"
+            }
+          ]
+        }
+      },
+      "row": {
+        "feature_id": "extra-feature",
+        "en": "what3words AI assistant",
+        "fr": "Assistant de localisation IA what3words",
+        "de": "what3words KI-Standortassistent",
+        "vi": "Trợ lý vị trí AI what3words",
+        "ja": "what3words AIロケーションアシスタント",
+        "cs": "Asistent polohy AI what3words",
+        "mn": "Mongolian",
+        "nl": "what3words AI-locatieassistent",
+        "zh-Hans": "what3words AI 位置助手",
+        "zh-Hant": "what3words AI 位置助理",
+        "it": "Assistente di localizzazione AI what3words",
+        "ko": "what3words AI 위치 도우미",
+        "ru": "AI помощник по местоположению what3words",
+        "pt": "Assistente de localização AI what3words",
+        "pl": "Asystent lokalizacji what3words AI",
+        "es": "Asistente de ubicación con IA de what3words"
+      }
+    },
+    {
+      "featureId": "extra-feature",
+      "locale": "ru",
+      "action": "update",
+      "error": {
+        "status": 400,
+        "name": "ValidationError",
+        "message": "This attribute must be unique",
+        "details": {
+          "errors": [
+            {
+              "path": [
+                "feature_id"
+              ],
+              "message": "This attribute must be unique",
+              "name": "ValidationError",
+              "value": "extra-feature"
+            }
+          ]
+        }
+      },
+      "row": {
+        "feature_id": "extra-feature",
+        "en": "what3words AI assistant",
+        "fr": "Assistant de localisation IA what3words",
+        "de": "what3words KI-Standortassistent",
+        "vi": "Trợ lý vị trí AI what3words",
+        "ja": "what3words AIロケーションアシスタント",
+        "cs": "Asistent polohy AI what3words",
+        "mn": "Mongolian",
+        "nl": "what3words AI-locatieassistent",
+        "zh-Hans": "what3words AI 位置助手",
+        "zh-Hant": "what3words AI 位置助理",
+        "it": "Assistente di localizzazione AI what3words",
+        "ko": "what3words AI 위치 도우미",
+        "ru": "AI помощник по местоположению what3words",
+        "pt": "Assistente de localização AI what3words",
+        "pl": "Asystent lokalizacji what3words AI",
+        "es": "Asistente de ubicación con IA de what3words"
+      }
+    },
+    {
+      "featureId": "extra-feature",
+      "locale": "pt",
+      "action": "update",
+      "error": {
+        "status": 400,
+        "name": "ValidationError",
+        "message": "This attribute must be unique",
+        "details": {
+          "errors": [
+            {
+              "path": [
+                "feature_id"
+              ],
+              "message": "This attribute must be unique",
+              "name": "ValidationError",
+              "value": "extra-feature"
+            }
+          ]
+        }
+      },
+      "row": {
+        "feature_id": "extra-feature",
+        "en": "what3words AI assistant",
+        "fr": "Assistant de localisation IA what3words",
+        "de": "what3words KI-Standortassistent",
+        "vi": "Trợ lý vị trí AI what3words",
+        "ja": "what3words AIロケーションアシスタント",
+        "cs": "Asistent polohy AI what3words",
+        "mn": "Mongolian",
+        "nl": "what3words AI-locatieassistent",
+        "zh-Hans": "what3words AI 位置助手",
+        "zh-Hant": "what3words AI 位置助理",
+        "it": "Assistente di localizzazione AI what3words",
+        "ko": "what3words AI 위치 도우미",
+        "ru": "AI помощник по местоположению what3words",
+        "pt": "Assistente de localização AI what3words",
+        "pl": "Asystent lokalizacji what3words AI",
+        "es": "Asistente de ubicación con IA de what3words"
+      }
+    },
+    {
+      "featureId": "extra-feature",
+      "locale": "pl",
+      "action": "update",
+      "error": {
+        "status": 400,
+        "name": "ValidationError",
+        "message": "This attribute must be unique",
+        "details": {
+          "errors": [
+            {
+              "path": [
+                "feature_id"
+              ],
+              "message": "This attribute must be unique",
+              "name": "ValidationError",
+              "value": "extra-feature"
+            }
+          ]
+        }
+      },
+      "row": {
+        "feature_id": "extra-feature",
+        "en": "what3words AI assistant",
+        "fr": "Assistant de localisation IA what3words",
+        "de": "what3words KI-Standortassistent",
+        "vi": "Trợ lý vị trí AI what3words",
+        "ja": "what3words AIロケーションアシスタント",
+        "cs": "Asistent polohy AI what3words",
+        "mn": "Mongolian",
+        "nl": "what3words AI-locatieassistent",
+        "zh-Hans": "what3words AI 位置助手",
+        "zh-Hant": "what3words AI 位置助理",
+        "it": "Assistente di localizzazione AI what3words",
+        "ko": "what3words AI 위치 도우미",
+        "ru": "AI помощник по местоположению what3words",
+        "pt": "Assistente de localização AI what3words",
+        "pl": "Asystent lokalizacji what3words AI",
+        "es": "Asistente de ubicación con IA de what3words"
+      }
+    },
+    {
+      "featureId": "extra-feature",
+      "locale": "es",
+      "action": "update",
+      "error": {
+        "status": 400,
+        "name": "ValidationError",
+        "message": "This attribute must be unique",
+        "details": {
+          "errors": [
+            {
+              "path": [
+                "feature_id"
+              ],
+              "message": "This attribute must be unique",
+              "name": "ValidationError",
+              "value": "extra-feature"
+            }
+          ]
+        }
+      },
+      "row": {
+        "feature_id": "extra-feature",
+        "en": "what3words AI assistant",
+        "fr": "Assistant de localisation IA what3words",
+        "de": "what3words KI-Standortassistent",
+        "vi": "Trợ lý vị trí AI what3words",
+        "ja": "what3words AIロケーションアシスタント",
+        "cs": "Asistent polohy AI what3words",
+        "mn": "Mongolian",
+        "nl": "what3words AI-locatieassistent",
+        "zh-Hans": "what3words AI 位置助手",
+        "zh-Hant": "what3words AI 位置助理",
+        "it": "Assistente di localizzazione AI what3words",
+        "ko": "what3words AI 위치 도우미",
+        "ru": "AI помощник по местоположению what3words",
+        "pt": "Assistente de localização AI what3words",
+        "pl": "Asystent lokalizacji what3words AI",
+        "es": "Asistente de ubicación con IA de what3words"
+      }
+    }
+  ]
+}

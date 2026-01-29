@@ -1,0 +1,42 @@
+[2026-01-29T07:51:18.809Z] [INFO] Default locale: en, other locales: zh-Hans, zh-Hant, cs, nl, fr, de, it, ja, ko, pl, pt, ru, es, vi
+[2026-01-29T07:51:18.810Z] [INFO] 
+=== Processing feature_id="photo-mode" ===
+[2026-01-29T07:51:18.810Z] [INFO] GET /pro-features?feature_id=photo-mode
+[2026-01-29T07:51:18.845Z] [INFO] Found existing documentId=uf0w78o6ye1dbwvw1wq1kbaf. Updating base locale=en
+[2026-01-29T07:51:18.845Z] [INFO] PUT /pro-features/uf0w78o6ye1dbwvw1wq1kbaf?locale=en (create/update locale version)
+[2026-01-29T07:51:18.881Z] [INFO] PUT /pro-features/uf0w78o6ye1dbwvw1wq1kbaf?locale=zh-Hans (create/update locale version)
+[2026-01-29T07:51:18.887Z] [INFO] PUT /pro-features/uf0w78o6ye1dbwvw1wq1kbaf?locale=zh-Hant (create/update locale version)
+[2026-01-29T07:51:18.892Z] [INFO] PUT /pro-features/uf0w78o6ye1dbwvw1wq1kbaf?locale=cs (create/update locale version)
+[2026-01-29T07:51:18.900Z] [INFO] PUT /pro-features/uf0w78o6ye1dbwvw1wq1kbaf?locale=nl (create/update locale version)
+[2026-01-29T07:51:18.907Z] [INFO] PUT /pro-features/uf0w78o6ye1dbwvw1wq1kbaf?locale=fr (create/update locale version)
+[2026-01-29T07:51:18.913Z] [INFO] PUT /pro-features/uf0w78o6ye1dbwvw1wq1kbaf?locale=de (create/update locale version)
+[2026-01-29T07:51:18.918Z] [INFO] PUT /pro-features/uf0w78o6ye1dbwvw1wq1kbaf?locale=it (create/update locale version)
+[2026-01-29T07:51:18.923Z] [INFO] PUT /pro-features/uf0w78o6ye1dbwvw1wq1kbaf?locale=ja (create/update locale version)
+[2026-01-29T07:51:18.928Z] [INFO] PUT /pro-features/uf0w78o6ye1dbwvw1wq1kbaf?locale=ko (create/update locale version)
+[2026-01-29T07:51:18.932Z] [INFO] PUT /pro-features/uf0w78o6ye1dbwvw1wq1kbaf?locale=pl (create/update locale version)
+[2026-01-29T07:51:18.937Z] [INFO] PUT /pro-features/uf0w78o6ye1dbwvw1wq1kbaf?locale=pt (create/update locale version)
+[2026-01-29T07:51:18.941Z] [INFO] PUT /pro-features/uf0w78o6ye1dbwvw1wq1kbaf?locale=ru (create/update locale version)
+[2026-01-29T07:51:18.945Z] [INFO] PUT /pro-features/uf0w78o6ye1dbwvw1wq1kbaf?locale=es (create/update locale version)
+[2026-01-29T07:51:18.949Z] [INFO] PUT /pro-features/uf0w78o6ye1dbwvw1wq1kbaf?locale=vi (create/update locale version)
+[2026-01-29T07:51:18.953Z] [INFO] 
+=== Processing feature_id="import_file" ===
+[2026-01-29T07:51:18.953Z] [INFO] GET /pro-features?feature_id=import_file
+[2026-01-29T07:51:18.955Z] [INFO] No existing document. Creating base document feature_id=import_file, locale=en
+[2026-01-29T07:51:18.955Z] [INFO] POST /pro-features (base) feature_id=import_file, locale=en
+[2026-01-29T07:51:18.959Z] [INFO] PUT /pro-features/x850f8l1cjo9q7r0rceew050?locale=zh-Hans (create/update locale version)
+[2026-01-29T07:51:18.962Z] [INFO] PUT /pro-features/x850f8l1cjo9q7r0rceew050?locale=zh-Hant (create/update locale version)
+[2026-01-29T07:51:18.972Z] [INFO] PUT /pro-features/x850f8l1cjo9q7r0rceew050?locale=cs (create/update locale version)
+[2026-01-29T07:51:18.979Z] [INFO] PUT /pro-features/x850f8l1cjo9q7r0rceew050?locale=nl (create/update locale version)
+[2026-01-29T07:51:18.987Z] [INFO] PUT /pro-features/x850f8l1cjo9q7r0rceew050?locale=fr (create/update locale version)
+[2026-01-29T07:51:18.993Z] [INFO] PUT /pro-features/x850f8l1cjo9q7r0rceew050?locale=de (create/update locale version)
+[2026-01-29T07:51:19.005Z] [INFO] PUT /pro-features/x850f8l1cjo9q7r0rceew050?locale=it (create/update locale version)
+[2026-01-29T07:51:19.008Z] [INFO] PUT /pro-features/x850f8l1cjo9q7r0rceew050?locale=ja (create/update locale version)
+[2026-01-29T07:51:19.012Z] [INFO] PUT /pro-features/x850f8l1cjo9q7r0rceew050?locale=ko (create/update locale version)
+[2026-01-29T07:51:19.019Z] [INFO] PUT /pro-features/x850f8l1cjo9q7r0rceew050?locale=pl (create/update locale version)
+[2026-01-29T07:51:19.031Z] [INFO] PUT /pro-features/x850f8l1cjo9q7r0rceew050?locale=pt (create/update locale version)
+[2026-01-29T07:51:19.038Z] [INFO] PUT /pro-features/x850f8l1cjo9q7r0rceew050?locale=ru (create/update locale version)
+[2026-01-29T07:51:19.045Z] [INFO] PUT /pro-features/x850f8l1cjo9q7r0rceew050?locale=es (create/update locale version)
+[2026-01-29T07:51:19.050Z] [INFO] PUT /pro-features/x850f8l1cjo9q7r0rceew050?locale=vi (create/update locale version)
+[2026-01-29T07:51:19.055Z] [INFO] 
+Sync complete. Report written to: /Users/anhlando/Documents/Projects/CMS-strapi/strapi-translation/reports/pro-feature-sync-report-2026-01-29T07-51-19-054Z.json
+[2026-01-29T07:51:19.055Z] [INFO] Summary: processed=2, success=30, failures=0
